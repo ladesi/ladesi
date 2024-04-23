@@ -1,4 +1,24 @@
-### Hi there 👋
+### LADESI
+
+Hi! We are the Intelligent systems development laboratory (Laboratório de Desenvolvimento de Sistemas Inteligentes).
+
+## MISSION, VISION AND VALUES
+
+# MISSION
+
+We develop innovative solutions at the intersection of electronics, signal processing, dynamic systems control, machine learning and artificial intelligence, pushing the frontiers of knowledge and technological advancement. Through collaborative research and interdisciplinary approaches, we tackle complex challenges and empower society with transformative technologies.
+
+# VISION
+
+To be a laboratory recognized for its excellence in research and innovation, creating solutions and technologies that address social challenges, contributing to the well-being of the population
+
+# VALUES
+
+- Excellence: We are committed to maintaining the highest standards of quality and rigor in our research efforts, without compromising safety or the environment.
+- Collaboration: In our laboratory, we have a collaborative environment where diverse perspectives converge to stimulate creativity and drive innovation.
+- Integrity: We conduct our research with integrity, honesty and ethics, ensuring transparency and responsibility in our actions.
+- Continuous Learning: We foster a culture of continuous learning and intellectual curiosity, where individuals are empowered to explore, discover and grow.
+- Respect: We make everyone feel welcome and respected, recognizing the value of different backgrounds, experiences and ideas in advancing our collective mission.
 
 <!--
 "windows" + "." => Já mostra os emojis!
